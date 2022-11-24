@@ -1,4 +1,4 @@
-enum ElementEnum {
+enum PieceEnum {
   POTION_TIMER_5 = "5",
   POTION_TIMER_4 = "4",
   POTION_TIMER_3 = "3",
@@ -28,4 +28,4 @@ enum ElementEnum {
   ENEMY_HERO_DEAD = "ø",
 }
 
-export { ElementEnum };
+export { PieceEnum };

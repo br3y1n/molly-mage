@@ -1,2 +1,2 @@
-export * from "./elements.enums";
+export * from "./piece.enums";
 export * from "./commands.enums";
