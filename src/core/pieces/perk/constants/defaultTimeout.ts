@@ -1,0 +1,3 @@
+const DEFAULT_PERK_TIMEOUT = 30;
+
+export { DEFAULT_PERK_TIMEOUT };
