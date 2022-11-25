@@ -1,5 +1,4 @@
 export * from "./hero/hero";
-export * from "./enemyHero/enemyHero";
 export * from "./ghost/ghost";
 export * from "./perk/perk";
 export * from "./potion/potion";
